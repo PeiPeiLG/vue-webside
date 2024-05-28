@@ -2,8 +2,8 @@
   "vueCli" : [
     {
       "title": "個人網站",
-      "imgName": "vue-vue-webside",
-      "link": "https://weblgengineer.github.io/vue-vue-webside/dist/index.html#/",
+      "imgName": "vue-webside",
+      "link": "https://weblgengineer.github.io/vue-webside/dist/index.html#/",
       "introduction": "使用Vue Cli3 + Vue Router 整合製作SPA網頁",
       "responsible": "獨力完成",
       "tag": [
