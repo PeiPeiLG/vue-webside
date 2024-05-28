@@ -8,7 +8,7 @@
               <img class="w-100 mw-200 mx-auto my-0 d-block" src="../assets/peiLogo.png" alt="">
             </div>
             <div class="col-9 col-md-12 mt-md-3 text-md-center">
-              <p class="mb-2 mb-md-3"><i class="fas fa-envelope"></i> WebLgEngineer@gmail.com</p>
+              <p class="mb-2 mb-md-3"><i class="fas fa-envelope"></i> labibi.lg@gmail.com</p>
               
             </div>
           </div>

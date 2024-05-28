@@ -4,7 +4,7 @@
       <div class="col-md-6 col-lg-5 col-xl-4  border-md-right border-secondary">
         <ul class="list-unstyled text-center text-md-left">
           <li><p>Copyright 羅恩培 © 2021 All Rights Reserved.</p></li>
-          <li><i class="fas fa-envelope"></i> WebLgEngineer@gmail.com</li>
+          <li><i class="fas fa-envelope"></i> labibi.lg@gmail.com</li>
         </ul>
       </div>
       <div class="col-md-4 pl-4">
