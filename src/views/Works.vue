@@ -8,7 +8,7 @@
           <li class="col-md-6 col-lg-4 py-2" >
             <div @click="modelContent('vueCli',0)" data-toggle="modal" data-target=".bd-example-modal-xl">
               <HoverCard>
-                <img :src="require('../assets/works/vue-webside.jpg')" alt="" slot="cardImg" class="card-img">
+                <img :src="require('../assets/works/webside.jpg')" alt="" slot="cardImg" class="card-img">
                 <template slot="cardTitle">個人網站</template>
                 <template slot="cardText">
                   <span class="badge badge-primary m-1"><i class="fas fa-hashtag"></i> vue-cli3</span>
