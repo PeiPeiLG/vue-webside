@@ -1,0 +1,185 @@
+{
+  "vueCli" : [
+    {
+      "title": "個人網站",
+      "imgName": "vue-webside",
+      "link": "https://weblgengineer.github.io/vue-webside/dist/index.html#/",
+      "introduction": "使用Vue Cli3 + Vue Router 整合製作SPA網頁",
+      "responsible": "獨力完成",
+      "tag": [
+        "vue-cli3",
+        "vue-router",
+        "vue-typed-js",
+        "vue-resource",
+        "npm",  
+        "bootstrap"
+      ]
+    },
+    {
+      "title": "寵物飯店",
+      "imgName": "test",
+      "link": "https://www.youtube.com/",
+      "introduction": "使用Vue Cli3 + Vue Router 整合製作SPA網頁",
+      "responsible": "獨力完成",
+      "tag": [
+        "vue-cli3",
+        "vue-router",
+        "npm",
+        "vue-typed-js",
+        "bootstrap"
+      ]
+    }
+  ],
+  "largeSite" :[
+    {
+      "title": "RMK台灣官方網站",
+      "imgName": "rmk",
+      "link": "https://www.ilovermk.com.tw/",
+      "introduction": "大型官方網站，品牌官網改版，後台維護，兩層產品架構，產品可依據顏色換圖",
+      "responsible": "前端RWD切版、js互動效果、後台產品上架、後期持續維護",
+      "tag": [
+        "RWD",
+        "swiper.js",
+        "iframe"
+      ]
+    },
+    {
+      "title": "deerdogs官方網站",
+      "imgName": "deerdogs",
+      "link": "https://www.deerdogs.com.tw/",
+      "introduction": "大型官方網站，電商網站",
+      "responsible": "前端RWD切版、js互動效果、後期持續維護",
+      "tag": [
+        "RWD",
+        "swiper.js",
+        "jQuery TWzipcode",
+        "fancybox"
+      ]
+    },
+    {
+      "title": "Hi-Q中華海洋官方網站",
+      "imgName": "hiq",
+      "link": "https://member.hiqbio.com/",
+      "introduction": "企業會員中心整合註冊，登入，會員查詢，會員點數兌換，積分卡兌換，後台一站式管理。分部門區隔權限",
+      "responsible": "前端RWD切版、js互動效果、後期持續維護",
+      "tag": [
+        "RWD",
+        "swiper.js",
+        "fancybox"
+      ]
+    }
+  ],
+  "smallSite": [
+    {
+      "title": "鹿鹿A官方網站",
+      "imgName": "lulua",
+      "link": "https://lulua.tw/",
+      "introduction": "將viewport設定成750px，做成手機板延伸一頁式網站",
+      "responsible": "前端切版、js互動效果、後期持續維護",
+      "tag": [
+        "網頁UI設計",
+        "form表單",
+        "fancybox"
+      ]
+    },
+    {
+      "title": "池田好米",
+      "imgName": "rice",
+      "link": "https://thebestriceintaitung.tw/",
+      "introduction": "RWD一頁式電商網站，透過視差動畫增加互動效果",
+      "responsible": "前端RWD切版、js互動效果、後期持續維護",
+      "tag": [
+        "loading動畫",
+        "OOCSS",
+        "SMACSS",
+        "BEM",
+        "animation",
+        "swiper.js",
+        "AOS"
+      ]
+    }
+  ],
+  "rwdActivity": [
+    {
+      "title": "SUQQU 聖誕活動",
+      "imgName": "suqqu",
+      "link": "https://event01.suqqu.com.tw/2020christmas/",
+      "introduction": "一頁式RWD活動網站",
+      "responsible": "獨力完成",
+      "tag": [
+        "RWD",
+        "OOCSS",
+        "SMACSS",
+        "BEM",
+        "iframe"
+      ]
+    },
+    {
+      "title": "台電 | 風傳媒",
+      "imgName": "light_up",
+      "link": "#",
+      "introduction": "一頁式RWD活動網站，透過視差動畫增加互動效果",
+      "responsible": "獨力完成",
+      "tag": [
+        "RWD",
+        "OOCSS",
+        "SMACSS",
+        "BEM",
+        "animation"
+      ]
+    },
+    {
+      "title": "LA PRAIRIE活動網站",
+      "imgName": "laprairie",
+      "link": "https://www.laprairie-event.com.tw/",
+      "introduction": "La Prairie活動網站群，填單，簡訊，靠櫃兌換",
+      "responsible": "前端RWD切版、js互動效果、後期持續維護",
+      "tag": [
+        "RWD",
+        "SCSS",
+        "form表單",
+        "影片自動撥放"
+      ]
+    }
+  ],
+  "activity": [
+    {
+      "title": "DARPHIN小官網與活動網站群",
+      "imgName": "darphin",
+      "link": "https://www.darphintw.com/web/",
+      "introduction": "Darphin小官網與活動網站群，填單，簡訊，靠櫃兌換，將viewport設定成750px，做成手機板延伸一頁式網站",
+      "responsible": "前端切版、js互動效果、後期持續維護",
+      "tag": [
+        "viewport750",
+        "AOS"
+      ]
+    },
+    {
+      "title": "APIVITA活動網站群",
+      "imgName": "apivita",
+      "link": "https://www.apivita-taiwan.tw/",
+      "introduction": "Apivita活動網站群，填單，簡訊，靠櫃兌換，將viewport設定成750px，做成手機板延伸一頁式網站",
+      "responsible": "前端切版、js互動效果、後期持續維護",
+      "tag": [
+        "viewport750",
+        "AOS"
+      ]
+    },
+    {
+      "title": "SISLEY 活動網站群",
+      "imgName": "sisley",
+      "link": "https://www.sisley-paris.com/zh-TW/2020-md-sisley_apr_hair/",
+      "introduction": "Sisley 活動網站群，填單，簡訊，靠櫃兌換，寬度設計成640px，只做中間並且掛在sisley的header跟footer下",
+      "responsible": "前端切版、js互動效果、後期持續維護",
+      "tag": [
+        "類RWD",
+        "form表單",
+        "影片自動撥放",
+        "iframe"
+      ]
+    }
+  ]
+
+
+
+}

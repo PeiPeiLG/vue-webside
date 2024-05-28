@@ -1,0 +1,62 @@
+$fz:1rem;
+
+.fz-1{font-size: $fz*(36/16);}//36px/16px
+.fz-2{font-size: $fz*(32/16);}// 32px/16px
+.fz-3{font-size: $fz*(28/16);}// 28px/16px
+.fz-4{font-size: $fz*(24/16);}// 24px/16px
+.fz-5{font-size: $fz*(20/16);}// 20px/16px
+.fz-6{font-size: $fz;}// 16px/16px
+.fz-7{font-size: $fz*(12/16);}//12px/16px
+.fz-8{font-size: $fz*(8/16);}//8px/16px
+
+
+@include media-breakpoint-up(sm) {
+.fz-sm-1{font-size: $fz*(36/16);}//36px/16px
+.fz-sm-2{font-size: $fz*(32/16);}// 32px/16px
+.fz-sm-3{font-size: $fz*(28/16);}// 28px/16px
+.fz-sm-4{font-size: $fz*(24/16);}// 24px/16px
+.fz-sm-5{font-size: $fz*(20/16);}// 20px/16px
+.fz-sm-6{font-size: $fz;}// 16px/16px
+.fz-sm-7{font-size: $fz*(12/16);}//12px/16px
+.fz-sm-8{font-size: $fz*(8/16);}//8px/16px
+}
+
+@include media-breakpoint-up(md) {
+.fz-md-1{font-size: $fz*(36/16);}//36px/16px
+.fz-md-2{font-size: $fz*(32/16);}// 32px/16px
+.fz-md-3{font-size: $fz*(28/16);}// 28px/16px
+.fz-md-4{font-size: $fz*(24/16);}// 24px/16px
+.fz-md-5{font-size: $fz*(20/16);}// 20px/16px
+.fz-md-6{font-size: $fz;}// 16px/16px
+.fz-md-7{font-size: $fz*(12/16);}//12px/16px
+.fz-md-8{font-size: $fz*(8/16);}//8px/16px
+}
+
+@include media-breakpoint-up(lg) {
+.fz-lg-1{font-size: $fz*(36/16);}//36px/16px
+.fz-lg-2{font-size: $fz*(32/16);}// 32px/16px
+.fz-lg-3{font-size: $fz*(28/16);}// 28px/16px
+.fz-lg-4{font-size: $fz*(24/16);}// 24px/16px
+.fz-lg-5{font-size: $fz*(20/16);}// 20px/16px
+.fz-lg-6{font-size: $fz;}// 16px/16px
+.fz-lg-7{font-size: $fz*(12/16);}//12px/16px
+.fz-lg-8{font-size: $fz*(8/16);}//8px/16px
+}
+
+@include media-breakpoint-up(xl) {
+.fz-xl-1{font-size: $fz*(36/16);}//36px/16px
+.fz-xl-2{font-size: $fz*(32/16);}// 32px/16px
+.fz-xl-3{font-size: $fz*(28/16);}// 28px/16px
+.fz-xl-4{font-size: $fz*(24/16);}// 24px/16px
+.fz-xl-5{font-size: $fz*(20/16);}// 20px/16px
+.fz-xl-6{font-size: $fz;}// 16px/16px
+.fz-xl-7{font-size: $fz*(12/16);}//12px/16px
+.fz-xl-8{font-size: $fz*(8/16);}//8px/16px
+}
+
+.text-shadow{text-shadow:0.1em 0.1em 0.2em $dark;}
+
+//開頭空兩格
+.text-indent{text-indent:2em;}
+
+.letter-spacing{letter-spacing:1.3px;}
