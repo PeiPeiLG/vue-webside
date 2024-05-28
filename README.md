@@ -1,19 +1,6 @@
 # vue-webside
+> 2021 webside (vue)
+> vue/cli 3.13
+> [連結](https://ffeelg.github.io/vue-webside/dist/#/)
 
-## Project setup
-```
-npm install123
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
